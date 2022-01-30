@@ -67,6 +67,7 @@ https://aluracord-iota-rouge.vercel.app
 ## Referências
 
 - [NextJS](https://nextjs.org/docs#manual-setup)
+    - [Custom App](https://nextjs.org/docs/advanced-features/custom-app)
 - Skynexui
     - [GitHub](https://github.com/skynexui/components)
     - [Docs](https://docs-skynexui.vercel.app)
